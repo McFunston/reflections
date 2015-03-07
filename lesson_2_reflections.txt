@@ -5,3 +5,7 @@ When you initialize a repository with "git init" it creates a hidden directory c
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area allows you to chose the files that are going to go into a commit. The working directory contains all of your files even the ones you aren't chosing to commit. The repository contains only the files that you've put into the staging area and then commited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+If I've changed two files I can add them to the staging area and then commit them one at a time. That way I can track the changes separately.
