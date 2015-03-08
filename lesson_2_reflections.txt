@@ -9,3 +9,7 @@ The staging area allows you to chose the files that are going to go into a commi
 How can you use the staging area to make sure you have one commit per logical change?
 
 If I've changed two files I can add them to the staging area and then commit them one at a time. That way I can track the changes separately.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When I want to try a new features that I'm not sure will work. I could even have several branches with experimental features. It could also help in play testing a game. you could have several branches each with different difficulties and then pick the one with the most balanced play.
