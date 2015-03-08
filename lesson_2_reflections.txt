@@ -17,3 +17,7 @@ When I want to try a new features that I'm not sure will work. I could even have
 How do the diagrams help you visualize the branch structure?
 
 They help you to see the order that changes were made including which changes are included in each branch. Presumably this would help you to know what features and bug fixes or even bugs would be in a given branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging the two branches adds both sets of changes from both branches into one new master. It's represented in the diagram the way it is because it's like the two branches of a tree grew into one.
