@@ -13,3 +13,7 @@ If I've changed two files I can add them to the staging area and then commit the
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When I want to try a new features that I'm not sure will work. I could even have several branches with experimental features. It could also help in play testing a game. you could have several branches each with different difficulties and then pick the one with the most balanced play.
+
+How do the diagrams help you visualize the branch structure?
+
+They help you to see the order that changes were made including which changes are included in each branch. Presumably this would help you to know what features and bug fixes or even bugs would be in a given branch.
