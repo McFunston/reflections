@@ -21,3 +21,7 @@ They help you to see the order that changes were made including which changes ar
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging the two branches adds both sets of changes from both branches into one new master. It's represented in the diagram the way it is because it's like the two branches of a tree grew into one.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Merging automatically is much quicker and eliminates human error. It's not always possible since computers are very poor at making the types of decisions needed to resolve conflicts.
