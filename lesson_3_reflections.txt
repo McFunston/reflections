@@ -13,3 +13,7 @@ A fork is when you make a remote copy of someone else's remote repository. Cloni
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This way I can tell if my local copy is ahead (because I've made changes) of the remote copy. I know that I may face merge conflicts the next time I do a pull request.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+If I were to collaborate without GitHub or some other version control system it would make things a lot harder overall. While GitHub does force you to remember a bunch of commands and structure it allows you to communicate by example. Rather than try to convince a team mate that I have a good idea and can pull it off I can just show them exactly what I mean. Without GitHub even if I went through the bother of doing this they would then have to decide if my changes were worth the extra work of manually merging the chanes into their files.
