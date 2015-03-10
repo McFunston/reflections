@@ -9,3 +9,7 @@ I imagine that like most things that are done manually in Git manual pushes and 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 A fork is when you make a remote copy of someone else's remote repository. Cloning is making a local copy of a remote repository. Branching is practically unrelated to cloning and forking. It's used if you want to take a project down a new path to test experimental or long term features without disrupting the main project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This way I can tell if my local copy is ahead (because I've made changes) of the remote copy. I know that I may face merge conflicts the next time I do a pull request.
