@@ -5,3 +5,7 @@ If I want to be able to edit the project on more than one computer or to have ot
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I imagine that like most things that are done manually in Git manual pushes and pulls allow for greater controll by the user. If I'm working on something locally that isn't complete yet I don't want it to automatically push. This could be very confusing to others who are working on the same project and could break the code.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is when you make a remote copy of someone else's remote repository. Cloning is making a local copy of a remote repository. Branching is practically unrelated to cloning and forking. It's used if you want to take a project down a new path to test experimental or long term features without disrupting the main project.
